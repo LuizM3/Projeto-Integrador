@@ -11,7 +11,7 @@ const Principal = () => {
         <>
             <Header />
         
-                <Carousel />
+            <Carousel />
 
             <Section2 />
 
